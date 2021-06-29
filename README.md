@@ -1,5 +1,5 @@
 # Primeiro Repo
 
-![cap.png](cap)
+![./cap.png](cap)
 
 Esse é um repositório de teste.
