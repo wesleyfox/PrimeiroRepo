@@ -1,4 +1,5 @@
 # Primeiro Repo
 
-![./happy.jpg]
+![cap.png](cap)
+
 Esse é um repositório de teste.
